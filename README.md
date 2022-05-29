@@ -7,4 +7,4 @@
 4. Truffle HD Wallet provider: 1.0.17
 5. ERC-721 Token Name: Crypto Star Token
 6. ERC-721 Token Symbol: CST
-
+7. Rinkeby Token Address: 0x9959660b5F44CD04672F1356f883bB81fB8336b4
